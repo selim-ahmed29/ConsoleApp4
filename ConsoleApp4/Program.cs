@@ -152,23 +152,6 @@
 
             #endregion
 
-            #region Question 15
-            //Console.WriteLine("Enter five numbers:");
-            //int[] arr = new int[6];
-            //int max = arr[0];
-            //int min = arr[0];
-
-            //for (int i = 1; i < arr.Length; i++)
-            //{
-            //    arr[i] = int.Parse(Console.ReadLine());
-            //    if (arr[i] > max) max = arr[i];
-            //    if (arr[i] < min) min = arr[i];
-            //}
-
-            //Console.WriteLine("max = " + max);
-            //Console.WriteLine("min = " + min);
-            ////have logic error '_'
-            #endregion
 
             #region Question 15
             //Console.WriteLine("Enter five numbers:");
